@@ -1,0 +1,141 @@
+Id,Name,Gender,Job,House,Species,Blood status
+1,Harry James Potter,Male,Student,Gryffindor,Human,Half-blood
+2,Ronald Bilius Weasley,Male,Student,Gryffindor,Human,Pure-blood
+3,Hermione Jean Granger,Female,Student,Gryffindor,Human,Muggle-born
+4,Albus Percival Wulfric Brian Dumbledore,Male,Headmaster,Gryffindor,Human,Half-blood
+5,Rubeus Hagrid,Male,Keeper of Keys and Grounds | Professor of Care of Magical Creatures ,Gryffindor,Half-Human/Half-Giant,Part-Human (Half-giant)
+6,Neville Longbottom,Male,Student,Gryffindor,Human,Pure-blood
+7,Fred Weasley,Male,Student,Gryffindor,Human,Pure-blood
+8,George Weasley,Male,Student,Gryffindor,Human,Pure-blood
+9,Ginevra (Ginny) Molly Weasley,Female,Student,Gryffindor,Human,Pure-blood
+10,Dean Thomas,Male,Student,Gryffindor,Human,Muggle-born
+11,Seamus Finnigan,Male,Student,Gryffindor,Human,Half-blood
+12,Lily J. Potter,Female,,Gryffindor,Human,Muggle-born
+13,James Potter,Male,,Gryffindor,Human,Pure-blood
+14,Sirius Black,Male,,Gryffindor,Human,Pure-blood
+15,Remus John Lupin,Male,Professor of Defence Against the Dark Arts ,Gryffindor,Werewolf,Half-blood
+16,Peter Pettigrew,Male,The Servant of Lord Voldemort,Gryffindor,Human,Half-blood or pure-blood
+17,Percy Ignatius Weasley,Male,Student|Prefect|  Personal assistant to Barty Crouch Snr ,Gryffindor,Human,Pure-blood
+18,(Bill) William Arthur Weasley,Male,Curse-Breaker for Gringotts Bank,Gryffindor,Human (Werewolf traits),Pure-blood
+19,Charles Weasley,Male,Dragonologist,Gryffindor,Human,Pure-blood
+20,Lee Jordan ,Male,Student,Gryffindor,Human,Pure-blood or half-blood
+21,Oliver Wood,Male,Student,Gryffindor,Human,Pure-blood or Half-blood
+22,Angelina Johnson,Female,Student,Gryffindor,Human,Unknown
+23,Katie Bell,Female,Student,Gryffindor,Human,Pure-blood or half-blood
+24,Alicia Spinnet,Female,Student,Gryffindor,Human,Pure-blood or half-blood
+25,Lavender Brown,Female,Student,Gryffindor,Human,Pure-blood
+26,Parvati Patil,Female,Student,Gryffindor,Human,Pure-blood or half-blood
+27,Romilda Vane,Female,Student,Gryffindor,Human,Pure-blood or half-blood
+28,Colin Creevey,Male,Student,Gryffindor,Human,Muggle-born
+29,Cormac McLaggen,Male,Student,Gryffindor,Human,Pure-blood or half-blood
+30,Minerva McGonagall,Female,Professor of Transfiguration | Head of Gryffindor,Gryffindor,Human,Half-blood
+31,Molly Weasley,Female,,Gryffindor,Human,Pure-blood
+32,Arthur Weasley,Male,Head of the Misuse of Muggle Artefacts Office,Gryffindor,Human,Pure-blood
+33,Quirinus Quirrell,Male,Defence Against the Dark Arts(1991-1992),Ravenclaw,Human,Half-blood
+34,Cho Chang,Female,Student,Ravenclaw,Human,Pure-blood or half-blood
+35,Luna Lovegood,Female,Student,Ravenclaw,Human,Pure-blood or half-blood
+36,Gilderoy Lockhart,Male,Defence Against the Dark Arts(1992-1993),Ravenclaw,Human,Half-blood
+37,Filius Flitwick,Male,Professor of Charms | Head of Ravenclaw,Ravenclaw,Human(goblin ancestry),Part-Goblin
+38,Sybill Patricia Trelawney,Female,Professor of Divination,Ravenclaw,Human,Half-blood
+39,Garrick Ollivander,Male,Wandmaker,Ravenclaw,Human,Half-blood
+40,Myrtle Elizabeth Warren (Moaning Myrtle),Female,Student,Ravenclaw,Ghost,Muggle-born
+41,Padma Patil,Female,Student,Ravenclaw,Human,Pure-blood or half-blood
+42,Michael Corner,Male,Student,Ravenclaw,Human,Half-blood
+43,Marietta Edgecombe,Female,Student,Ravenclaw,Human,Pure-blood or half-blood
+44,Terry Boot,Male,Student,Ravenclaw,Human,Pure-blood or half-blood
+45,Anthony Goldstein,Male,Student,Ravenclaw,Human,Half-blood
+46,Severus Snape,Male,Professor of Potions | Head of Slytherin,Slytherin,Human,Half-blood
+47,Draco Malfoy,Male,Student,Slytherin,Human,Pure-blood
+48,Vincent Crabbe,Male,Student,Slytherin,Human,Pure-blood
+49,Gregory Goyle,Male,Student,Slytherin,Human,Pure-blood
+50,Bellatrix Lestrange,Female,,Slytherin,Human,Pure-blood
+51,Dolores Jane Umbridge,Female,Professor of Defence Against the Dark Arts | Department of Magical Law Enforcement,Slytherin,Human,Half-blood
+52,Horace Eugene Flaccus Slughorn,,Professor of Potions ,Slytherin,Human,Pure-blood or half-blood
+53,Lucius Malfoy,Male,School Governor,Slytherin,Human,Pure-blood
+54,Narcissa Malfoy,Female,,Slytherin,Human,Pure-blood
+55,Regulus Arcturus Black,Male,,Slytherin,Human,Pure-blood
+56,Pansy Parkinson,Female,Student,Slytherin,Human,Pure-blood or half-blood
+57,Blaise Zabini,Male,Student,Slytherin,Human,Pure-blood or half-blood
+58,Tom Marvolo Riddle,Male,Student,Slytherin,Human,Half-blood
+59,Theodore Nott,Male,Student,Slytherin,Human,Pure-blood
+60,Rodolphus Lestrange,Male,,Slytherin,Human,Pure-blood
+61,Millicent Bulstrode,Female,Student,Slytherin,Human,Half-blood
+62,Graham Montague,Male,Student,Slytherin,Human,Pure-blood or half-blood
+63,Bloody Baron,Male,Slytherin House Ghost,Slytherin,Ghost,Pure-blood or half-blood
+64,Marcus Flint,Male,Student,Slytherin,Human,Pure-blood or half-blood
+65,Penelope Clearwater,Female,Student,Ravenclaw,Human,Muggle-born or half-blood
+66,Roger Davies,Male,Student,Ravenclaw,Human,Unknown
+67,Marcus Belby,Male,Student,Ravenclaw,Human,Pure-blood or half-blood
+68,Salazar Slytherin,Male,Founder of Slytherin,Slytherin,Human,Pure-blood
+69,Godric Gryffindor,Male,Founder of Gryffindor,Gryffindor,Human,Pure-blood or half-blood
+70,Rowena Ravenclaw,Female,Founder of Ravenclaw,Ravenclaw,Human,Pure-blood or half-blood
+71,Nicholas de Mimsy-Porpington,Male,Gryffindor House Ghost,Gryffindor,Ghost,
+72,Cuthbert Binns,Male,Professor of History of Magic ,,Ghost,
+73,Barty Crouch Jr.,Male,Professor of Defence Against the Dark Arts (as Alastor Moody) ,,Human,Pure-blood or half-blood
+74,Charity Burbage,Female,Professor of Muggle Studies,,Human,Pure-blood or half-blood
+75,Firenze,Male,Professor of Divination,,Centaur,
+76,Alecto Carrow,Female,Professor of Muggle Studies,Slytherin,Human,Pure-blood or half-blood
+77,Amycus Carrow,Male,Professor of Dark Arts,Slytherin,Human,Pure-blood or half-blood
+78,Helga Hufflepuff,Female,Founder of Hufflepuff,Hufflepuff,Human,Pure-blood or half-blood
+79,Fat Friar,Male,Hufflepuff House Ghost,Hufflepuff,Ghost,
+80,Helena Ravenclaw,Female,Ravenclaw House Ghost,Ravenclaw,Ghost,Pure-blood or half-blood
+81,Nymphadora Tonks,Female,Auror,Hufflepuff,Human,Half-blood
+82,Pomona Sprout,Female,Professor of Herbology | Head of Hufflepuff House,Hufflepuff,Human,Pure-blood or half-blood
+83,Newton Scamander,Male,Employee in the Beast Division of the Department for the Regulation and Control of Magical Creatures,Hufflepuff,Human,Pure-blood or half-blood
+84,Cedric Diggory,Male,Student,Hufflepuff,Human,Pure-blood
+85,Justin Finch-Fletchley,Male,Student,Hufflepuff,Human,Muggle-born
+86,Zacharias Smith,Male,Student,Hufflepuff,Human,Pure-blood or half-blood
+87,Hannah Abbott,Female,Student,Hufflepuff,Human,Half-blood
+88,Ernest Macmillan,Male,Student,Hufflepuff,Human,Pure-blood
+89,Susan Bones,Female,Student,Hufflepuff,Human,Half-blood
+90,Walden Macnair,Male,Executioner for the Committee for the Disposal of Dangerous Creatures,Slytherin,Human,Pure-blood or half-blood
+91,Augustus Rookwood,Male,Unspeakable,Slytherin,Human,Pure-blood or half-blood
+92,Antonin Dolohov,Male,Death Eater,Slytherin,Human,Pure-blood or Half-blood
+93,Corban Yaxley,Male,Head of the Department of Magical Law Enforcement,Slytherin,Human,Pure-blood or Half-blood
+94,Igor Karkaroff,Male,Headmaster of Durmstrang Institute,,Human,Pure-blood or Half-blood
+95,Kingsley Shacklebolt,Male,Auror  | Minister for Magic,,Human,Pure-blood
+96,Alastor Moody,Male,Auror ,,Human,Pure-blood
+97,Alice Longbottom,Female,Auror,,Human,Pure-blood
+98,Frank Longbottom,Male,Auror,Gryffindor,Human,Pure-blood
+99,Rufus Scrimgeour,Male,Head of Auror Office| Minister for Magic,,Human,
+100,Cornelius Oswald Fudge,Male,Minister for Magic,,Human,Pure-blood or Half-blood
+101,Barty Crouch Sr.,Male,Head of the Department of International Magical Cooperation,,Human,Pure-blood
+102,Amos Diggory,Male,Employee of the Department for the Regulation and Control of Magical Creatures[,,Human,Pure-blood or half-blood
+103,Dedalus Diggle,Male,,,Human,Pure-blood or half-blood
+104,Elphias Doge,Male,Special Advisor to the Wizengamot,,Human,Pure-blood
+105,Fleur Isabelle Delacour,Female,Part-time at Gringotts Wizarding Bank,Beauxbatons Academy of Magic,Human,Quarter-Veela
+106,Aberforth Dumbledore,Male,Owner and Barman of the Hog's Head Inn,,Human,Half-blood
+107,Mundungus Fletcher,Male,Dealer of wizarding artifacts,,Human,Half-blood[
+108,Sturgis Podmore,Male,Advance Guard,,Human,Pure-blood or half-blood
+109,Hestia Jones,Female,Advance Guard,,Human,Pure-blood or half-blood
+110,Marlene McKinnon,Female,,,Human,
+111,Fabian Prewett,Male,,,Human,Pure-blood
+112,Gideon Prewett,Male,,,Human,Pure-blood
+113,Emmeline Vance,Female,Advance Guard,,Human,
+114,Edgar Bones,Male,,Hufflepuff,Human,Pure-blood or half-blood
+115,Dorcas Meadowes,Female,,,Human,
+116,Benjy Fenwick,Male,,,Human,
+117,Madame Olympe Maxime,Female,Headmistress of Beauxbatons Academy of Magic,Beauxbatons Academy of Magic,Half-Human/Half-Giant,Part-Human (Half-giant)
+118,Gabrielle Delacour,Female,,Beauxbatons Academy of Magic,Human ,Quarter-Veela
+119,Viktor Krum,Male,Seeker for the Bulgarian National Quidditch team,Durmstrang Institute,Human ,Pure-blood or half-blood
+120,Petunia Dursley,Female,,,Human ,Muggle
+121,Vernon Dursley,Male,Director at Grunnings,,Human ,Muggle
+122,Dudley Dursley,Male,,,Human ,Muggle
+123,Marge Dursley,Female,Dog breeder,,Human ,Muggle
+124,Dennis Creevey,Male,Student,Gryffindor,Human ,Muggle-born
+125,Albus Severus Potter,Male,Student,Slytherin,Human ,Half-blood
+126,Scorpius Hyperion Malfoy,Male,Student,Slytherin,Human ,Pure-blood
+127,Edward Remus Lupin,Male,Student,Hufflepuff,Human (Metamorphmagus),Half-blood
+128,James Sirius Potter,Male,Student,Gryffindor,Human ,Half-blood
+129,Rose Granger-Weasley,Female,Student,Gryffindor,Human ,Half-blood
+130,Argus Filch,Male,Caretaker of Hogwarts,,Human ,Squib
+131,Poppy Pomfrey,Female,Matron at Hogwarts School,,Human ,Pure-blood or half-blood
+132,Rolanda Hooch,Female,Flying Instructor at Hogwarts,,Human ,
+133,Irma Pince,Female,Librarian at Hogwarts,,Human ,
+134,Aurora Sinistra,Female,Astronomer at Hogwarts,,Human ,Pure-blood or half-blood
+135,Septima Vector,Female,Professor of Arithmancyat Hogwarts,,Human ,
+136,Wilhelmina Grubbly-Plank,Female,Substitute professor of Care of Magical Creatures at Hogwarts,,Human ,
+137,Fenrir Greyback,Male,,,Werewolf,
+138,Gellert Grindelwald,Male,Revolutionary leader(c. 1920s[6] – 1945),,Human ,Pure-blood or half-blood
+139,Dobby,Male,Malfoy family's house-elf (? - 1993),,elf,
+140,Kreacher,Male,Black family's house-elf (?-1996),,elf,
